@@ -1,0 +1,5 @@
+Credentials cache: API:6A8E64CE-39F6-4D43-892F-3C1548B25B6D
+        Principal: helkaddo@42.FR
+
+  Issued                Expires               Principal
+Jul  2 15:45:30 2018  Jul  9 15:45:10 2018  krbtgt/42.FR@42.FR
